@@ -15,7 +15,7 @@ bau cua 2022 moi.apk
 *ប្រសិនបើនាក់នៅតែមិនអាចតំឡើង វាបាន! សូមធ្វើការទាក់ទងមកពួកយើងឥឡូវនេះ! Email: developerkhmergamedev7307@gmail.com Phone call: 096617019, 090283821
 
 _______________________________________________
-Giới thiệu - Cách tải game về chơi ...
+Cách tải game về chơi ...
 
  1> Nhấp Vào View code
 
