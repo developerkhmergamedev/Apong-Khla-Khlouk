@@ -26,28 +26,28 @@ body {
 .download-btn {
     background-color: lawngreen;
     color: black;
-    padding: 2rem 2rem;
-    font-size: 3rem;
+    padding: 1rem 1rem;
+    font-size: 2rem;
     text-decoration: none;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .download-btn{
     background-color: lawngreen;
     color: black;
-    padding: 2rem 2rem;
-    font-size: 3rem;
+    padding: 1rem 1rem;
+    font-size: 2rem;
     text-decoration: none;
-    border-radius:25px;
+    border-radius:15px;
 }
 
 .download-btn {
     background-color: lawngreen;
     color: black;
-    padding: 2rem 2rem;
-    font-size: 3rem;
+    padding: 1rem 1rem;
+    font-size: 2rem;
     text-decoration: none;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .download-btn:hover {
