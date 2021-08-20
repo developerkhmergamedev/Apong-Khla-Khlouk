@@ -1,6 +1,6 @@
 ﻿*{
-    margin:0;
-    padding:0;
+    margin:3;
+    padding:6;
     box-sizing: border-box;
 }
 
@@ -29,7 +29,7 @@ body {
     padding: 3rem 3rem;
     font-size: 3rem;
     text-decoration: none;
-    border-radius: 20px;
+    border-radius: 25px;
 }
 
 .download-btn{
@@ -38,7 +38,7 @@ body {
     padding: 3rem 3rem;
     font-size: 3rem;
     text-decoration: none;
-    border-radius:20px;
+    border-radius:25px;
 }
 
 .download-btn {
@@ -47,7 +47,7 @@ body {
     padding: 3rem 3rem;
     font-size: 3rem;
     text-decoration: none;
-    border-radius: 20px;
+    border-radius: 25px;
 }
 
 .download-btn:hover {
