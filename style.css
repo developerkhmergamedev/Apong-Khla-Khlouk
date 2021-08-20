@@ -29,7 +29,7 @@ body {
     padding: 1rem 1rem;
     font-size: 1rem;
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .download-btn{
@@ -38,7 +38,7 @@ body {
     padding: 1rem 1rem;
     font-size: 1rem;
     text-decoration: none;
-    border-radius:10px;
+    border-radius:15px;
 }
 
 .download-btn {
@@ -47,7 +47,7 @@ body {
     padding: 1rem 1rem;
     font-size: 1rem;
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .download-btn:hover {
