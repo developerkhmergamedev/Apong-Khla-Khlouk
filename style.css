@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+
+
 body{
     min-height: 100vh;
     display:grid;
@@ -28,8 +30,8 @@ body {
 .download-btn {
     background-color: green;
     color: white;
-    padding: 0.7rem 7rem;
-    font-size: 1.1rem;
+    padding: 1.3rem 12rem;
+    font-size: 1.6rem;
     text-decoration: none;
     border-radius: 5px;
 }
@@ -37,17 +39,17 @@ body {
 .download-btn{
     background-color: green;
     color: white;
-    padding: 0.7rem 7rem;
-    font-size: 1.1rem;
+    padding: 1.3rem 12rem;
+    font-size: 1.6rem;
     text-decoration: none;
     border-radius:5px;
 }
 
-.download-btn {
+.download-btn{
     background-color: green;
     color: white;
-    padding: 0.7rem 7rem;
-    font-size: 1.1rem;
+    padding: 1.3rem 12rem;
+    font-size: 1.6rem;
     text-decoration: none;
     border-radius: 5px;
 }
