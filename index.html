@@ -62,7 +62,6 @@ body{
 </style>
        
 
-    
 
 
     
@@ -70,15 +69,24 @@ body{
     
     
     
+    <center>
+    <class="loader-wrapper">
+    <span class="loader"><span class="loader-inner"></span></span>    
+    </class></center>
+    
+    <script>
+    $(window).on("load",function(){
+    $(".loader-wrapper").fadeOut("slow");
+    });
+    </script>
     
     
-    
-    <body>
+    <body>   
     <center>
     <video controls="loop autoplay" height="250" width="340">
     <source
-    src="video.mp4" type="video/mp4">
-    </video></center><center>  
+    src="video.mp4" type="video/mp4">  
+    </video></center><center>     
     <h3>
     <u>
        >របៀបទាញយក&តំឡើង ហ្គេម
@@ -123,8 +131,7 @@ body{
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-
-
+   
 
 <body>
 <center>
